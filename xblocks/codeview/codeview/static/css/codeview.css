@@ -1,0 +1,9 @@
+/* CSS for CodeMirrorViewXBlock */
+
+.codeview_block .count {
+    font-weight: bold;
+}
+
+.codeview_block p {
+    cursor: pointer;
+}
